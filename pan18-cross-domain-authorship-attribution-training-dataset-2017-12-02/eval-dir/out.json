@@ -1,0 +1,17 @@
+{
+    "overall_score": 0.596,
+    "problems": [
+        {
+            "macro-f1": 0.559,
+            "macro-precision": 0.62,
+            "macro-recall": 0.607,
+            "problem-name": "problem00001"
+        },
+        {
+            "macro-f1": 0.633,
+            "macro-precision": 0.7,
+            "macro-recall": 0.667,
+            "problem-name": "problem00002"
+        }
+    ]
+}
